@@ -11,7 +11,7 @@
 
 using namespace std;
 
-int main() {
+int main02() {
     const int SIZE = 8;
     int set[SIZE] = { 5, 10, 15, 20, 25, 30, 35, 40 };
     int* numPtr = nullptr; // Pointer 
