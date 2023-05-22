@@ -16,7 +16,7 @@ using namespace std;
 void getSales(double*, int);
 double totalSales(double*, int);
 
-int main() {
+int main04() {
     const int QTRS = 4;
     double sales[QTRS];
 

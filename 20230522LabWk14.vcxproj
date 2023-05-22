@@ -143,12 +143,14 @@
     <ClCompile Include="CS116Week14H02.cpp" />
     <ClCompile Include="CS116Week14H03.cpp" />
     <ClCompile Include="CS116Week14H04.cpp" />
+    <ClCompile Include="CS116Week14H05.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="H01.PNG" />
     <Image Include="H02.PNG" />
     <Image Include="H03.PNG" />
     <Image Include="H04.PNG" />
+    <Image Include="H05.PNG" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
