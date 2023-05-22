@@ -18,9 +18,15 @@
     <ClCompile Include="CS116Week14H01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CS116Week14H02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="H01.PNG">
+      <Filter>Source Files</Filter>
+    </Image>
+    <Image Include="H02.PNG">
       <Filter>Source Files</Filter>
     </Image>
   </ItemGroup>

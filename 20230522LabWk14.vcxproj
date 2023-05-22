@@ -140,9 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CS116Week14H01.cpp" />
+    <ClCompile Include="CS116Week14H02.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="H01.PNG" />
+    <Image Include="H02.PNG" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

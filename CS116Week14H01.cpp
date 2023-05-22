@@ -12,7 +12,7 @@
 
 using namespace std;
 
-int main() {
+int main01() {
     short numbers[] = { 10, 20, 30, 40, 50 };
     cout << "The first element of the array is ";
 
