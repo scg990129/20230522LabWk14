@@ -12,7 +12,7 @@
 
 using namespace std;
 
-int main() {
+int main03() {
     int set[8] = { 5, 10, 15, 20, 25, 30, 35, 40 };
     int *nums = set; // Make nums point to set
 

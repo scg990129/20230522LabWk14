@@ -142,6 +142,7 @@
     <ClCompile Include="CS116Week14H01.cpp" />
     <ClCompile Include="CS116Week14H02.cpp" />
     <ClCompile Include="CS116Week14H03.cpp" />
+    <ClCompile Include="CS116Week14H04.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="H01.PNG" />
